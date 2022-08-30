@@ -1,0 +1,142 @@
+[{
+        "img": "../photos/products/audi1.jpeg",
+        "name": "audi",
+        "id": 1,
+        "price": "450000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+
+    },
+    {
+        "img": "../photos/products/audi2.jpeg",
+        "name": "audi",
+        "id": 2,
+        "price": "470000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/audi6.jpeg",
+        "name": "audi",
+        "id": 3,
+        "price": "500000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/mersdes1.jpeg",
+        "name": "mersdes",
+        "id": 4,
+        "price": "550000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/merseds2.jpeg",
+        "name": "mersdes",
+        "id": 5,
+        "price": "60000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/mersedes5.jpeg",
+        "name": "mersdes",
+        "id": 6,
+        "price": "700000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw1.jpg",
+        "name": "bmw",
+        "id": 7,
+        "price": "80000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw2.jpeg",
+        "name": "bmw",
+        "id": 8,
+        "price": "750000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw3.jpeg",
+        "name": "bmw",
+        "id": 9,
+        "price": "790000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/audi5.jpeg",
+        "name": "audi",
+        "id": 10,
+        "price": "650000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/mersedes6.jpeg",
+        "name": "mersdes",
+        "id": 11,
+        "price": "600000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw5.jpeg",
+        "name": "bmw",
+        "id": 12,
+        "price": "770000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw8.jpeg",
+        "name": "bmw",
+        "id": 13,
+        "price": "880000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/audi7.jpeg",
+        "name": "audi",
+        "id": 14,
+        "price": "580000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/mersedes4.jpeg",
+        "name": "mersdes",
+        "id": 15,
+        "price": "720000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw4.jpeg",
+        "name": "bmw",
+        "id": 16,
+        "price": "540000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/audi4.jpeg",
+        "name": "audi",
+        "id": 17,
+        "price": "450000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/merseds2.jpeg",
+        "name": "mersdes",
+        "id": 18,
+        "price": "950000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw7.jpeg",
+        "name": "bmw",
+        "id": 19,
+        "price": "280000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    },
+    {
+        "img": "../photos/products/bmw4.jpeg",
+        "name": "bmw",
+        "id": 20,
+        "price": "630000",
+        "desc": "4-Cyl, Turbo, 2.0 Liter Engine"
+    }
+]
